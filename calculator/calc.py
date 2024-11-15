@@ -37,7 +37,7 @@ def calculator():
             print("Exiting the calculator. Goodbye!")
             break
 
-        # Validate input
+        # Input Validation
         if choice in ['1', '2', '3', '4']:
             try:
                 # Take user input for numbers
