@@ -17,7 +17,7 @@ def divide(x, y):
     else:
         return "Error! Division by zero."
 
-# Display the available operations
+# Display the all operations
 def display_operations():
     print("Select operation:")
     print("1. Add")
