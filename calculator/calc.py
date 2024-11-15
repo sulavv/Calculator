@@ -25,7 +25,7 @@ def display_operations():
     print("3. Multiply")
     print("4. Divide")
 
-# Main program loop
+# Main program 
 def calculator():
     while True:
         display_operations()
