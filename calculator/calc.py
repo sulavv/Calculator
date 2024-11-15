@@ -58,6 +58,6 @@ def calculator():
         else:
             print("Invalid choice! Please select a valid operation.")
 
-# Run the calculator program
+# Function to Run the calculator program
 if __name__ == "__main__":
     calculator()
